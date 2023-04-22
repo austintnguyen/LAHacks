@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LAHacks.iml" filepath="$PROJECT_DIR$/.idea/LAHacks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Schedule_Planner/Schedule_Planner.iml" filepath="$PROJECT_DIR$/Schedule_Planner/Schedule_Planner.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/src/src.iml" filepath="$PROJECT_DIR$/.idea/src/src.iml" />
     </modules>
   </component>
 </project>
