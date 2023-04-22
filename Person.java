@@ -23,6 +23,7 @@ list.add(course);
 public void removeCourse(String name){
     for(int i = 0; i<list.size();i++){
         if(list.get(i).name == name){
+            list.remove(i);
         }
 }
 
