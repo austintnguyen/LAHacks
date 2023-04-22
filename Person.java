@@ -2,14 +2,10 @@ import java.util.*;
 
 public class Person {
 
-String name;
-ArrayList<Course> list;
+private String name;
+private ArrayList<Course> list;
 
 
-public Person(){
-name = "";
-list = null;
-}
 
 public Person(String name, ArrayList<Course>list){
 
@@ -18,6 +14,27 @@ this.list = list;
 
 }
 
+public void addCourse(Course course){
+
+list.add(course);
+
+}
+
+public void removeCourse(String name){
+    for(int i = 0; i<list.size();i++){
+        if(list.get(i).name == name){
+        }
+}
+
+}
+
+public String getName(){
+return name;
+}
+
+public void setName(String name){
+this.name = name;
+}
 
 
 }
