@@ -1,3 +1,4 @@
+import java.util.*;
 
 public class Calendar {
 
@@ -14,7 +15,7 @@ public class Calendar {
         for (int i = 0; i < person.getList().size(); i++) {
             for (int j = 0; j < 5; j++) {
 
-                if (person.getList().get(i).getDays(j)) {
+                if (person.getList().get(i).getDays()[j]) {
                     list[j].add(person.getList().get(i));
                 }
 
