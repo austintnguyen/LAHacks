@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a4cf362-2594-48e9-8adc-d1852ef9c5a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Schedule_Planner/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Schedule_Planner/src/TestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/src.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule_Planner/src/Calendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule_Planner/src/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule_Planner/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schedule_Planner/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule_Planner/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schedule_Planner/Schedule_Planner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Schedule_Planner/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schedule_Planner/src/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Schedule_Planner/src/Calendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schedule_Planner/src/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Schedule_Planner/src/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schedule_Planner/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Schedule_Planner/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schedule_Planner/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Schedule_Planner/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Schedule_Planner/Calendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Schedule_Planner/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Schedule_Planner/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Schedule_Planner/Person.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +25,14 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,11 +50,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.completion"
@@ -46,10 +70,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aiden\Documents\GitHub\LAHacks\.idea\src" />
       <recent name="C:\Users\aiden\Documents\GitHub\LAHacks\Schedule_Planner\src" />
       <recent name="C:\Users\aiden\Documents\GitHub\LAHacks\src" />
       <recent name="C:\Users\aiden\Documents\GitHub\LAHacks" />
       <recent name="C:\Users\aiden\Documents\GitHub\LAHacks\src\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682148803290</updated>
       <workItem from="1682148805531" duration="3322000" />
-      <workItem from="1682181386135" duration="4976000" />
+      <workItem from="1682181386135" duration="7795000" />
     </task>
     <servers />
   </component>
