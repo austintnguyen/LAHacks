@@ -10,9 +10,9 @@ public class Person {
         list = new ArrayList<>();
     }
 
-    public Person(String name, ArrayList<Course> list) {
+    public Person(String name) {
         this.name = name;
-        this.list = list;
+        list = new ArrayList<>();
     }
 
     public void addCourse(Course course) {

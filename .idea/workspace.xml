@@ -8,7 +8,7 @@
       <change beforePath="$PROJECT_DIR$/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule_Planner/src/Calendar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule_Planner/src/Course.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule_Planner/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule_Planner/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schedule_Planner/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule_Planner/src/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2Olx6d8K3onDc7f61xokUu95oOt" />
   <component name="ProjectViewState">
@@ -58,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682148803290</updated>
       <workItem from="1682148805531" duration="3322000" />
-      <workItem from="1682181386135" duration="4669000" />
+      <workItem from="1682181386135" duration="4976000" />
     </task>
     <servers />
   </component>
