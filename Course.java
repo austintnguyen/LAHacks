@@ -28,7 +28,8 @@ public class Course {
      * For schedule, 0 represents no class, 1 represents class
      */
     public Course(String name, String section, double startTime, double endTime, String dayWithClass){
-        if (name == null || section == null) {
+        if (name == null || section == null || dayWithClass.length() != 5) {
+            System.out.println("Course constructor failed.");
             return;
         }
 
