@@ -4,10 +4,9 @@ public class Course {
     String id;
     double startTime;
     double endTime;
-    boolean[] days; //Monday to Friday, Monday starts at 0
+    boolean[] days; // Monday to Friday, Monday starts at 0
 
-
-    public Course(String name, String id, double startTime, double endTime){
+    public Course(String name, String id, double startTime, double endTime) {
         this.name = name;
         this.id = id;
         this.startTime = startTime;
@@ -34,25 +33,29 @@ public class Course {
         return id;
     }
 
-    public void setStartTime(){
+    public void setStartTime() {
 
         this.startTime = startTime;
 
     }
-    public double getStartTime(){
+
+    public double getStartTime() {
         return startTime;
-    
+
     }
-    public void setEndTime(){
+
+    public void setEndTime() {
 
         this.endTime = endTime;
 
     }
-    public double getEndTime(){
+
+    public double getEndTime() {
         return endTime;
-    
+
     }
-    public boolean[] getDays(){
+
+    public boolean[] getDays() {
         return days;
     }
 
