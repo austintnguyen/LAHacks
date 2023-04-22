@@ -5,6 +5,11 @@ public class Person {
     private String name;
     private ArrayList<Course> list;
 
+    public Person() {
+        this.name = "John Doe";
+        list = new ArrayList<>();
+    }
+
     public Person(String name, ArrayList<Course> list) {
         this.name = name;
         this.list = list;
@@ -32,6 +37,14 @@ public class Person {
 
     public ArrayList<Course> getList() {
         return list;
+    }
+
+    public void printPerson() {
+        System.out.println("Name: "+name);
+        System.out.println("Courses:");
+        for (int i = 0; i < list.size(); i++) {
+            System.out.println(list.get(i).getName());
+        }
     }
 
 }

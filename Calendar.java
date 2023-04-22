@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Calendar {
 
-    private ArrayList[] list;
+    private ArrayList<Course>[] list;
 
     public Calendar() {
         for (int i = 0; i < 5; i++) {

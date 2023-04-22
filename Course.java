@@ -4,7 +4,7 @@ public class Course {
     String section;
     double startTime;
     double endTime;
-    boolean[] days; //Monday to Friday, Monday starts at 0
+    boolean[] days; // Monday to Friday, Monday starts at 0
 
     public Course() {
         this.name = "XXX 00";
@@ -74,7 +74,7 @@ public class Course {
     public void setEndTime(double endTime){
         this.endTime = endTime;
     }
-
+    
     public double getEndTime(){
         return endTime;
     }
