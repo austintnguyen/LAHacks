@@ -25,7 +25,6 @@ public class Person {
                 list.remove(i);
             }
         }
-
     }
 
     public String getName() {
