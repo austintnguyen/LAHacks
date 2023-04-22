@@ -37,5 +37,9 @@ public void setName(String name){
 this.name = name;
 }
 
+public ArrayList<Course> getList(){
+    return list;
+}
+
 
 }
