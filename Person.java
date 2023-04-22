@@ -42,10 +42,10 @@ public class Person {
 
     public void printPerson() {
         System.out.println("Name: "+name);
-        // System.out.println("Courses:");
-        // for (int i = 0; i < list.size(); i++) {
-        //     System.out.println(list.get(i));
-        // }
+        System.out.println("Courses:");
+        for (int i = 0; i < list.size(); i++) {
+            System.out.println(list.get(i).getName());
+        }
     }
 
 }
